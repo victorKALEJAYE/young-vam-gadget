@@ -1,0 +1,23 @@
+{
+  "name": "young-vam-gadget",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D website for Young Vam Gadgets & Accessories, built with Next.js and React Three Fiber",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "framer-motion": "^12.9.2",
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "three": "^0.176.0"
+  },
+  "engines": {
+    "node": ">=18.18"
+  }
+}
